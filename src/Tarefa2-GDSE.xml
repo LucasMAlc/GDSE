@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<banco>
+  <cliente>
+    <nomeCliente></nomeCliente>
+    <conta>
+      <numero></numero>
+      <agencia></agencia>
+      <saldo></saldo>
+    </conta>
+    <cidadeCliente></cidadeCliente>
+    <ruaCliente></ruaCliente>
+  </cliente>
+</banco>

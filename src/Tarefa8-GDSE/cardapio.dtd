@@ -1,0 +1,16 @@
+<!ELEMENT cardapio (prato|sobremesa|bebida)*>
+<!ELEMENT prato (nome, descricao, preco)>
+<!ELEMENT sobremesa (nome, descricao, preco)>
+<!ELEMENT bebida (nome, descricao, preco)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT descricao (#PCDATA)>
+<!ELEMENT preco (#PCDATA)>
+<!ATTLIST prato tempo-preparo CDATA #REQUIRED
+                calorias CDATA #REQUIRED
+                tipo (normal|dieta) #REQUIRED>
+<!ATTLIST sobremesa tempo-preparo CDATA #REQUIRED
+                    calorias CDATA #REQUIRED
+                    tipo (normal|dieta) #REQUIRED>
+<!ATTLIST bebida tempo-preparo CDATA #REQUIRED
+                 calorias CDATA #REQUIRED
+                 tipo (normal|dieta) #REQUIRED>

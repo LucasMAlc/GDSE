@@ -1,0 +1,8 @@
+<!DOCTYPE db [
+<!ELEMENT db (pessoa+)>
+<!ELEMENT pessoa (nome, idade, email+, telefone?)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT idade (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT telefone (#PCDATA)>
+]>

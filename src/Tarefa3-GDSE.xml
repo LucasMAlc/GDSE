@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compromissos>
+  <compromisso>
+    <dia>18</dia>
+    <mes>01</mes>
+    <ano>2022</ano>
+    <horainicio>14:30</horainicio>
+    <horaFim>18:10</horaFim>
+    <titulo>Provai</titulo>
+    <mensagem>Prova1 da matéria de GDSE</mensagem>
+  </compromisso>
+  <compromisso>
+    <dia>08</dia>
+    <mes>03</mes>
+    <ano>2022</ano>
+    <horainicio>14:30</horainicio>
+    <horaFim>18:10</horaFim>
+    <titulo>Prova2</titulo>
+    <mensagem>Prova2 da matéria de GDSE</mensagem>
+  </compromisso>
+  <compromisso>
+    <dia>22</dia>
+    <mes>03</mes>
+    <ano>2022</ano>
+    <horainicio>14:30</horainicio>
+    <horaFim>18:10</horaFim>
+    <titulo>Exame</titulo>
+    <mensagem>Exame/Prova Final da matéria de GDSE</mensagem>
+  </compromisso>
+</compromissos>

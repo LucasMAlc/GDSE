@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comunicado SYSTEM "comunicado.dtd">
+<comunicado>
+  <para>Fulano</para>
+  <de>Ciclano</de>
+  <assunto>Assunto</assunto>
+  <mensagem>Conteúdo da mensagem.</mensagem>
+</comunicado>

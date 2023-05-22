@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<grupo>
+    <aluno>
+        <matrícula>1923103BCC</matrícula> 
+        <nome>Lucas Moura Alcantara</nome> 
+        <sexo>Masculino</sexo> 
+        <e-mail>17764070750@cefet-rj.br</e-mail> 
+        <data_nascimento>02/02/2000</data_nascimento>
+        <estado_civil>solteiro</estado_civil>
+    </aluno>
+    <aluno>
+        <matrícula>1923102BCC</matrícula> 
+        <nome>Fellipe Felix do Nascimento</nome> 
+        <sexo>Masculino</sexo> 
+        <e-mail>18433422782@cefet-rj.br</e-mail> 
+        <data_nascimento>21/12/2000</data_nascimento>
+        <estado_civil>solteiro</estado_civil>
+    </aluno>
+    <aluno>
+        <matrícula>1923092BCC</matrícula> 
+        <nome>Caio</nome> 
+        <sexo>Masculino</sexo> 
+        <e-mail>10227879775@cefet-rj.br</e-mail> 
+        <data_nascimento>27/03/2000</data_nascimento>
+        <estado_civil>solteiro</estado_civil>
+    </aluno>
+    <aluno>
+        <matrícula>2012616BCC</matrícula> 
+        <nome>Caique</nome> 
+        <sexo>Masculino</sexo> 
+        <e-mail>11790250757@cefet-rj.br</e-mail> 
+        <data_nascimento>02/12/2002</data_nascimento>
+        <estado_civil>solteiro</estado_civil>
+    </aluno>
+</grupo>

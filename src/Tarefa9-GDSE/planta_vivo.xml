@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<planta_vivo:planta xmlns:planta_vivo="http://www.w3schools.com/plantavivo">
+    <planta_vivo:nome>Orquídea</planta_vivo:nome>
+    <planta_vivo:especie>Cattleya walkeriana</planta_vivo:especie>
+    <planta_vivo:familia>Orchidaceae</planta_vivo:familia>
+    <planta_vivo:habitat>América do Sul</planta_vivo:habitat>
+    <planta_vivo:caracteristicas>
+        <planta_vivo:flor>Grande</planta_vivo:flor>
+        <planta_vivo:folha>Verde</planta_vivo:folha>
+    </planta_vivo:caracteristicas>
+</planta_vivo:planta>

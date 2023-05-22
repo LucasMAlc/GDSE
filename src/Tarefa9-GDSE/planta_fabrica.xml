@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<planta_fabrica:planta xmlns:planta_fabrica="http://www.w3schools.com/plantafabrica">
+    <planta_fabrica:nome>ABC</planta_fabrica:nome>
+    <planta_fabrica:local>Rio de Janeiro/RJ</planta_fabrica:local>
+    <planta_fabrica:num_funcionarios>200</planta_fabrica:num_funcionarios>
+    <planta_fabrica:qtd_produtos>20</planta_fabrica:qtd_produtos>
+    <planta_fabrica:maquinas_total>17</planta_fabrica:maquinas_total>
+</planta_fabrica:planta>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cardapio SYSTEM "cardapio.dtd">
+<cardapio>
+
+  <prato tempo-preparo="45 min" calorias="600" tipo="normal">
+    <nome>Spaghetti Carbonara</nome>
+    <descricao>Massa spaghetti com molho carbonara.</descricao>
+    <preco>30.00</preco>
+  </prato>  
+  <prato tempo-preparo="30 min" calorias="500" tipo="normal">
+    <nome>Frango Grelhado</nome>
+    <descricao>Peito de frango grelhado, servido com arroz integral e legumes cozidos no vapor.</descricao>
+    <preco>25.00</preco>
+  </prato>  
+  <prato tempo-preparo="40 min" calorias="400" tipo="dieta">
+    <nome>Salada Caesar</nome>
+    <descricao>Salada de alface americana, croutons, queijo parmesão e peito de frango grelhado.</descricao>
+    <preco>27.00</preco>
+  </prato>
+  <prato tempo-preparo="45 min" calorias="350" tipo="dieta">
+    <nome>Salada de Quinoa</nome>
+    <descricao>Salada de quinoa, tomate cereja, cebolinha, abacate e limão.</descricao>
+    <preco>26.00</preco>
+  </prato>
+
+  <sobremesa tempo-preparo="17 min" calorias="300" tipo="normal">
+    <nome>Pudim</nome>
+    <descricao>Pudim de leite condensado.</descricao>
+    <preco>8.00</preco>
+  </sobremesa>
+  <sobremesa tempo-preparo="15 min" calorias="200" tipo="dieta">
+    <nome>Sorvete de morango</nome>
+    <descricao>Sorvete de morango sem adição de açúcar.</descricao>
+    <preco>9.00</preco>
+  </sobremesa>
+
+  <bebida tempo-preparo="3 min" calorias="50" tipo="dieta">
+    <nome>Suco de laranja</nome>
+    <descricao>Suco natural de laranja.</descricao>
+    <preco>5.00</preco>
+  </bebida>
+  <bebida tempo-preparo="5 min" calorias="90" tipo="normal">
+    <nome>Suco de Abacaxi</nome>
+    <descricao>Suco natural de abacaxi.</descricao>
+    <preco>4.50</preco>
+  </bebida>  
+  <bebida tempo-preparo="1 min" calorias="100" tipo="normal">
+    <nome>Refrigerante</nome>
+    <descricao>Refrigerante de cola.</descricao>
+    <preco>6.00</preco>
+  </bebida>
+  <bebida tempo-preparo="1 min" calorias="0" tipo="normal">
+    <nome>Água com gás</nome>
+    <descricao>Água com gás.</descricao>
+    <preco>2.50</preco>
+  </bebida>
+
+</cardapio>

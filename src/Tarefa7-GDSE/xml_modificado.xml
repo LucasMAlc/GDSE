@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE db SYSTEM "DTD.dtd">
+<db>
+  <pessoa>
+    <nome> Pedro Maia</nome>
+    <idade>33</idade>
+    <email>maia@yahoo.com</email>
+  </pessoa>
+  <pessoa>
+    <nome> Ana Maria</nome>
+    <idade>24</idade>
+    <email>ana.maria@uol.com.br</email>
+    <email>ana.maria@yahoo.com.br</email>
+    <telefone>3322-4433</telefone>
+  </pessoa>
+</db>

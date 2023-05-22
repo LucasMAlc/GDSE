@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!ELEMENT comunicado (para, de, assunto, mensagem)>
+  <!ELEMENT para (#PCDATA)>
+  <!ELEMENT de (#PCDATA)>
+  <!ELEMENT assunto (#PCDATA)>
+  <!ELEMENT mensagem (#PCDATA)>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comunicado [
+  <!ELEMENT comunicado (para, de, assunto, mensagem)>
+  <!ELEMENT para (#PCDATA)>
+  <!ELEMENT de (#PCDATA)>
+  <!ELEMENT assunto (#PCDATA)>
+  <!ELEMENT mensagem (#PCDATA)>
+]>
+<comunicado>
+  <para>Fulano</para>
+  <de>Ciclano</de>
+  <assunto>Assunto</assunto>
+  <mensagem>Conteúdo da mensagem.</mensagem>
+</comunicado>

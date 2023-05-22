@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<planta_desenho:planta xmlns:planta_desenho="http://www.w3schools.com/plantadesenho">
+    <planta_desenho:imagem>Casa</planta_desenho:imagem>
+    <planta_desenho:traco>Rascunho a lapis</planta_desenho:traco>
+    <planta_desenho:folha>A4 Branca</planta_desenho:folha>
+</planta_desenho:planta>
