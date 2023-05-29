@@ -2,7 +2,7 @@ function AbrirXML()
 {
    var parser, xmlDoc;
 
-   var textXML = "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>"
+   var textXML = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" +
     "<clientes>\n" +
     "   <cliente>\n" +
     "       <nome>Fulano</nome>\n" +
@@ -59,8 +59,8 @@ function AbrirXML()
    var estado="";
    var cidade="";
    var credito="";
-   var clientes=xmlDoc.getElementsByTagName("cliente"); 
-   for(i = 0 ; i<clientes.length; i++)
+   var cliente=xmlDoc.getElementsByTagName("cliente"); 
+   for(i = 0 ; i<cliente.length; i++)
    {
       nome = nome + xmlDoc.getElementsByTagName("nome")[i].childNodes[0].nodeValue + "<br>";
       telefone = telefone + xmlDoc.getElementsByTagName("telefone")[i].childNodes[0].nodeValue + "<br>";
